@@ -417,8 +417,7 @@ loop();
  ~~~~~~~~~~~~~~~~~~*/
 /*
    Feito por:   Renan Vianna
-   Empresa:     Accenture
-   E-mail:      renan.e.vianna@accenture.com / renan_eleto_viana@hotmail.com
+   E-mail:      renan_eleto_viana@hotmail.com
    Linkedin:    https://www.linkedin.com/in/renan-eleto/
    Git:         https://github.com/iGuntherr
 */
